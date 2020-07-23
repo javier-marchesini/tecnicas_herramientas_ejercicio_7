@@ -9,7 +9,7 @@ Instalar dependencias
 ```sh
 $ cd tecnicas_herramientas_ejercicio_7
 $ npm install -d
-$ npm run test
+$ npx cucumber-js
 ```
 ### Dependencias
 Las siguientes dependencias son necesarias para el proyecto.
